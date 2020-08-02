@@ -7,3 +7,9 @@ https://github.com/Xilinx-summer-camp/Image_Style_Transform/tree/master/source_c
 其中host.cpp和host.hpp是用于host程序的，其余是用于残差网络层的。
 ### 使用的工具版本
 vitis 2019.2
+### 使用的板卡型号
+Alveo u280
+### 运行示例
+| 内容图片 | 风格图片 |转换后图片 |
+| --- | --- |
+| | |
