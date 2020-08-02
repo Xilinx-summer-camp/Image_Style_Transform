@@ -12,4 +12,4 @@ Alveo u280
 ### 运行示例
 | 内容图片      | 风格图片     | 转换后图片     |
 | ---------- | :-----------:  | :-----------: |
-| 第一行     | https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/denoised_starry.jpg     | 第二列     |
+| 第一行     | ![]https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/denoised_starry.jpg     | 第二列     |
