@@ -12,4 +12,5 @@ Alveo u280
 ### 运行示例
 | 内容图片      | 风格图片     | 转换后图片     |
 | ---------- | :-----------:  | :-----------: |
-| 第一行     | ![]https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/denoised_starry.jpg     | 第二列     |
+| ![](https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/test7.jpg)     | ![](https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/denoised_starry.jpg)     | ![](https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/result7_wave.jpg)     |
+| ![](https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/test3.jpg)     | ![](https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/scream.jpg)     | ![](https://github.com/Xilinx-summer-camp/Image_Style_Transform/blob/master/images/result3_scream.jpg)     |
